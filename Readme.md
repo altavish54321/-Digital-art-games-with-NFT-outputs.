@@ -8,6 +8,9 @@ DigitalArtGame is a decentralized platform for creating, owning, and trading dig
 
 ## Contract Address
 0xB92784417D16A82789De89aa229D6052b9E5e90f
+![image](https://github.com/user-attachments/assets/9434eee2-b7e7-445a-b208-683aec89849b)
+
+
 ## Project Vision
 DigitalArtGame envisions creating a vibrant ecosystem for digital artists and art enthusiasts where creativity meets blockchain technology. The platform aims to:
 - Democratize digital art ownership.
